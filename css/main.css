@@ -1,0 +1,31 @@
+
+#early_bird {
+background: #F0E2A3;
+}
+
+#early_bird p {
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+}
+
+header {
+	padding: 50px 0 0 0;
+	text-align: center;
+	background:url(../images/pizza_background.jpg) no-repeat center center fixed;
+
+}
+
+h1, h2 { 
+	background: rgba(255,255,255, 0.7);	 
+	width: 400px;
+	margin: 20px auto;
+
+}
+
+
+
+body { font-family: 'Oswald', sans-serif; }
+
+h1, h2, h3, h4, h5, h5 {font-family: 'Merriweather', serif;}
+
